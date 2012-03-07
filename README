@@ -1,0 +1,8 @@
+# A (.js)
+
+Minimal promise implementation based on http://wiki.commonjs.org/wiki/Promises/A
+
+Run tests with:
+    make test
+
+Uses Litmus (https://github.com/usenode/litmus.js) for unit tests. 
