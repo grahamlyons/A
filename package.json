@@ -1,0 +1,14 @@
+{
+    "name":"A",
+    "version":"0.0.1",
+    "main":"lib/A.js",
+    "description": "Minimal promise implementation from the CommonJS Promises/A specification",
+    "keywords": ["promise"],
+    "homepage": "http://github.com/grahamlyons/A",
+    "devDependencies": {
+        "litmus" : ">=0.4.0"
+    },
+    "scripts": {
+      "test": "make test"
+    }
+}
