@@ -5,6 +5,10 @@
     "description": "Minimal promise implementation from the CommonJS Promises/A specification",
     "keywords": ["promise"],
     "homepage": "http://github.com/grahamlyons/A",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/grahamlyons/A.git"
+    },
     "devDependencies": {
         "litmus" : ">=0.4.0"
     },
