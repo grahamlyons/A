@@ -1,5 +1,5 @@
 var litmus = require('litmus'),
-    Promise = require('../lib/a').Promise;
+    Promise = require('../lib/A').Promise;
 
 function delay(t, value) {
     var p = new Promise();
